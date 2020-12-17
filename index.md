@@ -10,7 +10,7 @@
 
 We were given several millions of check-ins and the friendship network coming from two social networks : Brightkite and Gowalla. 
 
-Here's a summary of this data :
+Here's a summary of this data : (??)
 <br/><br/>
 Social network | Number of check-ins | Number of users | Number of countries and places | Number of nodes | Number of edges 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
